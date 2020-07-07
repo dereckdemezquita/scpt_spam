@@ -2,7 +2,9 @@
 
 An ensemble of apple scripts for producing automated spam. Simply insert your victims apple associated ID and the message to send and click play in the editor.
 
-![Apple script editor](figures/apple-script.png)
+<p align="center">
+    <img src="./figures/apple-script.png" width="500">
+</p>
 
 You can set the number of times to repeat, as well add a delay or set to 0.
 
